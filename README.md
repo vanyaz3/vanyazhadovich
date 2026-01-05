@@ -3,9 +3,8 @@
 Computer Engineering student at the University of Illinois Urbana-Champaign
 with a focus on systems programming, embedded software, and performance-critical applications.
 
-This GitHub highlights selected engineering work. Some academic and team
-projects are intentionally not public to comply with course and organization
-policies.
+This GitHub highlights selected engineering work. Most of my projects are related to academic, organizational, and team
+projects are intentionally not public to comply with course and organization policies.
 
 ## Focus Areas
 - Systems programming (C/C++, Linux, RTOS)
