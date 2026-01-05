@@ -13,13 +13,6 @@ projects are intentionally not public to comply with course and organization pol
 - Hardware/software interfaces
 
 ## Selected Projects
-
-### GPU-Accelerated CNN (LeNet-5)
-Optimized convolutional layer execution using custom CUDA kernels.
-- 52.5% improvement in end-to-end throughput
-- Shared and constant memory optimization
-- Nsight Compute and Systems profiling
-
 ### RISC-V Operating System
 Custom Unix-like OS built in C and RISC-V assembly.
 - Virtual memory and paging
@@ -31,3 +24,9 @@ Distributed STM32-based telemetry and control system over Ethernet.
 - FreeRTOS firmware
 - Sensor fusion and fault recovery
 - Field reliability considerations
+
+### GPU-Accelerated CNN (LeNet-5)
+Optimized convolutional layer execution using custom CUDA kernels.
+- 52.5% improvement in end-to-end throughput
+- Shared and constant memory optimization
+- Nsight Compute and Systems profiling
